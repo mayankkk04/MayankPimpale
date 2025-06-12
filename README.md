@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Pimpale</h1>
 <h3 align="center">A passionate Full-stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkk04&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkk04" /> </p>
+<p align="center">
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Developer;Always+learning+something+new+%F0%9F%92%AA;Competitive+Programmer;Problem+Solver"
+  alt="Typing SVG"
+/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankkk04" alt="mayankkk04" /></a> </p>
 
