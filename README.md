@@ -19,7 +19,7 @@
 - 🤝 Open to collaborating on impactful software projects and clean UI development.
 - 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core CS subjects.
 - 🚀 I actively participate in **Programming contests**.
-- 📫 How to reach me: **[LinkedIn]([www.linkedin.com/in/mayank-pimpale-523b99265](https://www.linkedin.com/in/mayank-pimpale-523b99265/))**.
+- 📫 How to reach me: **https://www.linkedin.com/in/mayank-pimpale-523b99265/**.
 - ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
 - ⚡ Fun fact: I enjoy solving DSA and make UI elements look ✨ aesthetic ✨!
 
