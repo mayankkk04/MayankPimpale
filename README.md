@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Pimpale</h1>
-<h3 align="center">A passionate Full-stack Web developer</h3>
+<h3 align="center">Full-stack Web developer</h3>
 
 <p align="center">
 <img
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankkk04" alt="mayankkk04" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on building and Designing **Web Applications**
 
-- 🌱 I’m currently learning **AWS and some Frontend Frameworks**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **React, Node, Javascript, Express, MongoDb, Java Programming, Sql**
+- 💬 Ask me about **React.js, Node.js, Javascript, Express.js, MongoDb, Java Programming, Sql**
 
 - 📫 How to reach me **mayankpimpale01@gmail.com**
 
