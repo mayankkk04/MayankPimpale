@@ -52,7 +52,7 @@
 ### 🌍 Let's Connect
 
 <p align="left">
-  <a href="[www.linkedin.com/in/mayank-pimpale-523b99265](https://www.linkedin.com/in/mayank-pimpale-523b99265/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mayank-pimpale-523b99265/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
   <a href="mailto:mayankpimpale01.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
